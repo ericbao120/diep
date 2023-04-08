@@ -2,7 +2,7 @@
 	"data": [
 		{
 			"Name": "American Society for Aesthetic Plastic Surgery (ASAPS)",
-            "Size": "N/A",
+            "Size": "Unknown",
 			"Cost": "0",
 			"Requires_Membership": "Yes",
             "Years": "1997 - 2021",
@@ -27,7 +27,7 @@
 		},
         {
 			"Name": "CosmetAssure",
-            "Size": "N/A",
+            "Size": "Unknown",
 			"Cost": "0",
 			"Requires_Membership": "Yes",
             "Years": "2003 - Present",
