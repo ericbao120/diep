@@ -385,7 +385,7 @@
 			"Sex": "Yes",
 			"Race": "Yes",
 			"ZipCode": "No",
-			"Income": "N0",
+			"Income": "No",
 			"Comorbidities": "Yes",
 			"ICD-9": "Yes",
 			"ICD-10": "Yes",
