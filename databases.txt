@@ -23,7 +23,7 @@
 			"Total_Charges": "Yes",
 			"COVID_Data": "Unknown",
 			"COVID_ICD": "Unknown",
-			"COVID_Specific_Questions": "Unknown",
+			"COVID_Specific_Questions": "Unknown"
 		},
         {
 			"Name": "CosmetAssure"
@@ -48,7 +48,7 @@
 			"Total_Charges": "Unknown",
 			"COVID_Data": "Unknown",
 			"COVID_ICD": "Unknown",
-			"COVID_Specific_Questions": "Unknown",
+			"COVID_Specific_Questions": "Unknown"
 		},
         {
 			"Name": "Healthcare Cost and Utilization Project: Kids' Inpatient Database (HCUP KID)"
@@ -73,7 +73,7 @@
 			"Total_Charges": "Yes",
 			"COVID_Data": "Yes",
 			"COVID_ICD": "Yes",
-			"COVID_Specific_Questions": "No",
+			"COVID_Specific_Questions": "No"
 		},
         {
 			"Name": "Healthcare Cost and Utilization Project: Nationwide Emergency Department Sample (HCUP NEDS)"
@@ -98,7 +98,7 @@
 			"Total_Charges": "Yes",
 			"COVID_Data": "Yes",
 			"COVID_ICD": "Yes",
-			"COVID_Specific_Questions": "No",
+			"COVID_Specific_Questions": "No"
 		},
         {
 			"Name": "Healthcare Cost and Utilization Project: National Inpatient Sample (HCUP NIS)"
@@ -123,7 +123,7 @@
 			"Total_Charges": "Yes",
 			"COVID_Data": "Yes",
 			"COVID_ICD": "Yes",
-			"COVID_Specific_Questions": "No",
+			"COVID_Specific_Questions": "No"
 		},
         {
 			"Name": "Healthcare Cost and Utilization Project: State-Specific Ambulatory Surgery and Services Databases (HCUP SASD)"
@@ -148,7 +148,7 @@
 			"Total_Charges": "Yes",
 			"COVID_Data": "Yes",
 			"COVID_ICD": "Yes",
-			"COVID_Specific_Questions": "Unknown",
+			"COVID_Specific_Questions": "Unknown"
 		},
         {
 			"Name": "Healthcare Cost and Utilization Project: State Emergency Departmment Databases (HCUP SEDD)"
@@ -173,7 +173,7 @@
 			"Total_Charges": "Yes",
 			"COVID_Data": "Yes",
 			"COVID_ICD": "Yes",
-			"COVID_Specific_Questions": "Unknown",
+			"COVID_Specific_Questions": "Unknown"
 		},
         {
 			"Name": "Healthcare Cost and Utilization Project: State-specific inpatient databases (HCUP SID)"
@@ -198,7 +198,7 @@
 			"Total_Charges": "Yes",
 			"COVID_Data": "Yes",
 			"COVID_ICD": "Yes",
-			"COVID_Specific_Questions": "Unknown",
+			"COVID_Specific_Questions": "Unknown"
 		},
         {
 			"Name": "Healthcare Cost and Utilization Project: National Ambulatory Surgery Sample (HCUP NASS)"
@@ -223,7 +223,7 @@
 			"Total_Charges": "Yes",
 			"COVID_Data": "Yes",
 			"COVID_ICD": "Yes",
-			"COVID_Specific_Questions": "No",
+			"COVID_Specific_Questions": "No"
 		},
         {
 			"Name": "Healthcare Cost and Utilization Project: National Readmission Database (HCUP NRD)"
@@ -248,7 +248,7 @@
 			"Total_Charges": "Yes",
 			"COVID_Data": "Yes",
 			"COVID_ICD": "Yes",
-			"COVID_Specific_Questions": "No",
+			"COVID_Specific_Questions": "No"
 		},
         {
 			"Name": "American College of Surgeons National Cancer Database (NCDB)"
@@ -273,7 +273,7 @@
 			"Total_Charges": "Unknown",
 			"COVID_Data": "Unknown",
 			"COVID_ICD": "Unknown",
-			"COVID_Specific_Questions": "Unknown",
+			"COVID_Specific_Questions": "Unknown"
 		},
         {
 			"Name": "National Ambulatory Medical Care Survey (NAMCS)"
@@ -298,7 +298,7 @@
 			"Total_Charges": "No",
 			"COVID_Data": "No",
 			"COVID_ICD": "Unknown",
-			"COVID_Specific_Questions": "No",
+			"COVID_Specific_Questions": "No"
 		},
         {
 			"Name": "National Hospital Ambulatory Medical Care Survery (NHAMCS)"
@@ -323,7 +323,7 @@
 			"Total_Charges": "No",
 			"COVID_Data": "No",
 			"COVID_ICD": "No",
-			"COVID_Specific_Questions": "No",
+			"COVID_Specific_Questions": "No"
 		},
         {
 			"Name": "National Surgical Quality Improvement Program (NSQIP Adult)"
@@ -348,7 +348,7 @@
 			"Total_Charges": "No",
 			"COVID_Data": "Yes",
 			"COVID_ICD": "Yes",
-			"COVID_Specific_Questions": "Yes",
+			"COVID_Specific_Questions": "Yes"
 		},
         {
 			"Name": "National Surgical Quality Improvement Program (NSQIP Pediatric)"
@@ -373,7 +373,7 @@
 			"Total_Charges": "No",
 			"COVID_Data": "Yes",
 			"COVID_ICD": "Yes",
-			"COVID_Specific_Questions": "Yes",
+			"COVID_Specific_Questions": "Yes"
 		},
         {
 			"Name": "National Trauma Database (NTDB) [Trauma Quality Programs]"
@@ -398,7 +398,7 @@
 			"Total_Charges": "No",
 			"COVID_Data": "Yes",
 			"COVID_ICD": "Yes",
-			"COVID_Specific_Questions": "No",
+			"COVID_Specific_Questions": "No"
 		},
         {
 			"Name": "California Office of State-Wide Health Planning and Development ambulatory surgery database (OSHPD)"
@@ -423,7 +423,7 @@
 			"Total_Charges": "Yes",
 			"COVID_Data": "Yes",
 			"COVID_ICD": "Yes",
-			"COVID_Specific_Questions": "Unknown",
+			"COVID_Specific_Questions": "Unknown"
 		},
         {
 			"Name": "Surveillance, Epidemiology, and End Results Program (SEER)"
@@ -448,7 +448,7 @@
 			"Total_Charges": "Unknown",
 			"COVID_Data": "Yes",
 			"COVID_ICD": "No",
-			"COVID_Specific_Questions": "Yes",
+			"COVID_Specific_Questions": "Yes"
 		},
         {
 			"Name": "Tracking Operations and Outcomes for Plastic Surgeons (TOPS)"
@@ -473,7 +473,7 @@
 			"Total_Charges": "No",
 			"COVID_Data": "Yes",
 			"COVID_ICD": "Yes",
-			"COVID_Specific_Questions": "No",
+			"COVID_Specific_Questions": "No"
 		},
         {
 			"Name": "PearlDiver"
@@ -498,7 +498,7 @@
 			"Total_Charges": "Yes",
 			"COVID_Data": "Yes",
 			"COVID_ICD": "Yes",
-			"COVID_Specific_Questions": "No",
+			"COVID_Specific_Questions": "No"
 		},
         {
 			"Name": "National Hospital Discharge Survery (NHDS)"
@@ -523,7 +523,7 @@
 			"Total_Charges": "No",
 			"COVID_Data": "No",
 			"COVID_ICD": "No",
-			"COVID_Specific_Questions": "No",
+			"COVID_Specific_Questions": "No"
 		},
         {
 			"Name": "National Hospital Care Survey (NHCS)"
@@ -548,7 +548,7 @@
 			"Total_Charges": "Yes",
 			"COVID_Data": "Yes",
 			"COVID_ICD": "Yes",
-			"COVID_Specific_Questions": "Yes",
+			"COVID_Specific_Questions": "Yes"
 		},
         {
 			"Name": "MarketScan"
@@ -573,7 +573,7 @@
 			"Total_Charges": "Yes",
 			"COVID_Data": "Yes",
 			"COVID_ICD": "Yes",
-			"COVID_Specific_Questions": "No",
+			"COVID_Specific_Questions": "No"
 		},
         {
 			"Name": "Premier"
@@ -598,7 +598,7 @@
 			"Total_Charges": "Yes",
 			"COVID_Data": "Yes",
 			"COVID_ICD": "Yes",
-			"COVID_Specific_Questions": "Unknown",
+			"COVID_Specific_Questions": "Unknown"
 		}
 	]
 }
